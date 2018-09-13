@@ -1,0 +1,39 @@
+_repo: The-War-Book-of-the-German-General-Staff-Being-The-Usages-of-War-on-Land-Issued-by-the-Great-__51646
+_version: 0.0.1
+alternative_title: Kriegsbrauch im Landkriege. English
+contributor:
+  translator:
+    agent_name: Morgan, J. H. (John Hartman)
+    aliases:
+    - Morgan, John H. (John Hartman)
+    - Morgan, Prof. J.H.
+    - Morgan, John Hartman
+    birthdate: 1876
+    deathdate: 1955
+    gutenberg_agent_id: '7735'
+    url: http://www.gutenberg.org/2009/agents/7735
+creator:
+  author:
+    agent_name: Prussia (Germany). Armee. Grosser Generalstab. Kriegsgeschichtliche
+      Abteilung II
+    alias: Prussia (Germany). Armee. Grosser Generalstab. Kriegsgeschichtliche Abteilung
+      Zwei
+    gutenberg_agent_id: '43675'
+    url: http://www.gutenberg.org/2009/agents/43675
+description: ''
+gutenberg_issued: '2016-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War (International law)'
+- !lcsh 'World War, 1914-1918 -- Law and legislation -- Germany'
+- !lcc 'KZ'
+- GITenberg
+title: "The War Book of the German General Staff\r\nBeing \"The Usages of War on Land\"\
+  \ Issued by the Great General Staff of the German Army"
+url: http://www.gutenberg.org/ebooks/51646
